@@ -1,0 +1,13 @@
+name: mason_structure
+description: "Mason package for simply the work with hooks, and mason process"
+version: 0.0.1
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dependencies:
+  mason: ^0.1.0-dev.53
+  meta: ^1.14.0
+
+dev_dependencies:
+  coolint: 1.0.3
